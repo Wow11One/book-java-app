@@ -1,0 +1,20 @@
+[
+  {
+    "title": "1984",
+    "publication_house": "Folio",
+    "year_published": 1949,
+    "genre": "Dystopian, Political Fiction"
+  }
+  {
+    "title": "Pride and Prejudice",
+    "publication_house": "ABABAGALAMAGA",
+    "year_published": 1813,
+    "genre": "Romance, Satire"
+  },
+  {
+    "title": "Romeo and Juliet",
+    "publication_house": "Folio",
+    "year_published": 1597,
+    "genre": "Romance, Tragedy"
+  }
+]
