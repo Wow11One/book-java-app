@@ -23,7 +23,7 @@ public class XmlWriter<T> {
 
     public void toXml(Map<T, Integer> resultMap, String attribute, String userFolderName) throws IOException {
         ResultMapHolder<T> resultMapHolder = new ResultMapHolder<>(resultMap);
-        if (!resultMapHolder.getItems().isEmpty()) {
+        if (!resultMapHolder.getItem().isEmpty()) {
             File dir = new File(Constants.PROJECT_PATH + RESULT_FOLDER_NAME + userFolderName);
             if (!dir.exists()) {
                 dir.mkdirs();
