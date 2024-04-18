@@ -16,16 +16,18 @@ public class Main {
                 case Constants.PUBLICATION_HOUSE:
                     FileResolver<String> fileResolver = new FileResolver<>(folderName, attributeName);
                     fileResolver.start();
-                    System.out.println(fileResolver.analysisResult());
+
                     XmlWriter<String> xmlWriter = new XmlWriter<>();
-                    xmlWriter.toXml(fileResolver.analysisResult(), attributeName, folderName);
+                    xmlWriter.toXml(fileResolver.analysisResult(), attributeName, args[0]);
                     break;
                 case Constants.YEAR_PUBLISHED:
-                    fileResolver = new FileResolver<>(folderName, attributeName);
-                    fileResolver.start();
-                    System.out.println(fileResolver.analysisResult());
+                    FileResolver<String> fileResolverInteger = new FileResolver<>(folderName, attributeName);
+                    fileResolverInteger.start();
+
                     xmlWriter = new XmlWriter<>();
-                    xmlWriter.toXml(fileResolver.analysisResult(), attributeName, folderName);
+                    xmlWriter.toXml(fileResolverInteger.analysisResult(), attributeName, args[0]);
+                    break;
+                default: System.out.println("attribute is unknown");
 
             }
         } catch (Exception exception) {

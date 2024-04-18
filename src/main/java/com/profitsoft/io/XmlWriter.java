@@ -28,10 +28,8 @@ public class XmlWriter<T> {
             if (!dir.exists()) {
                 dir.mkdirs();
             }
-            String resultFilePath = Constants.PROJECT_PATH + RESULT_FOLDER_NAME + " "
+            String resultFilePath = Constants.PROJECT_PATH + RESULT_FOLDER_NAME + "/"
                     + userFolderName + "/statistics_by_" + attribute + ".xml";
-
-            System.out.println(resultFilePath + "here");
 
             xmlMapper.enable(SerializationFeature.INDENT_OUTPUT);
             xmlMapper.writeValue(new File(resultFilePath), resultMapHolder);

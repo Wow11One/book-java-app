@@ -33,7 +33,6 @@ public class JsonAnalyzer<T> {
 
     public List<T> analyse() throws IOException {
         if (parser.nextToken() != JsonToken.START_ARRAY) {
-            System.out.println(parser.currentToken().asString());
             throw new JsonFormatException("incorrect json array");
         }
 
@@ -52,8 +51,6 @@ public class JsonAnalyzer<T> {
                 Objects.equals(countIterator, SEARCH_LIMIT)) {
             throw new JsonFormatException("not correct json format");
         }
-        System.out.println(Thread.currentThread().getName());
-
         parser.nextToken();
 
         while (parser.currentToken() != JsonToken.END_OBJECT) {
@@ -63,7 +60,6 @@ public class JsonAnalyzer<T> {
             if (Objects.equals(parser.getCurrentName(), this.attributeName)) {
                 handleRequiredAttributeValue();
             } else {
-                System.out.println("any " + parser.getCurrentName());
                 handleAnyAttributeValue();
             }
         }
