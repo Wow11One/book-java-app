@@ -1,0 +1,33 @@
+[
+  {
+    "publication_house": "HarperCollins",
+    "year_published": 1988,
+    "genre": "Fiction, Adventure",
+    "title": "The Alchemist"
+  },
+  {
+    "title": "Crime and Punishment",
+    "publication_house": "The Russian Messenger",
+    "year_published": 1866,
+    "genre": "Psychological, Fiction"
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "second_title": "Karamazovs",
+    "publication_house": "The Russian Messenger",
+    "year_published": 1880,
+    "genre": "Philosophical, Fiction"
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "publication_house": "Pétion et Dubochet",
+    "year_published": 1844,
+    "genre": "Adventure, Historical"
+  },
+  {
+    "publication_house": "A. Lacroix, Verboeckhoven & Cie",
+    "year_published": 1862,
+    "genre": " Fiction,  Criticism",
+    "title": "Les Misérables"
+  }
+]

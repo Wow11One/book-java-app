@@ -1,0 +1,62 @@
+[
+  {
+    "title": "The Catcher in the Rye",
+    "publication_house": "Little, Brown and Company",
+    "year_published": 1951,
+    "genre": "Fiction"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "publication_house": "Knopf",
+    "year_published": 1960,
+    "genre": "Gothic, Bildungsroman"
+  },
+  {
+    "title": "The Great Gatsby",
+    "publication_house": "Scribner",
+    "year_published": 1925,
+    "genre": "Tragedy, Fiction"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "publication_house": "The Viking Press",
+    "year_published": 1939,
+    "genre": "Fiction"
+  },
+  {
+    "title": "Of Mice and Men",
+    "publication_house": "Covici Friede",
+    "year_published": 1937,
+    "genre": "Tragedy, Novella"
+  },
+  {
+    "title": "The Sun Also Rises",
+    "publication_house": "Scribner",
+    "year_published": 1603,
+    "genre": "Modernist"
+  },
+  {
+    "title": "The Bell Jar",
+    "publication_house": "Heinemann",
+    "year_published": 1963,
+    "genre": "Autobiographical, Fiction"
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "publication_house": "Delacorte Press",
+    "year_published": 1969,
+    "genre": "Fiction, Satire"
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "publication_house": "Viking Press",
+    "year_published": 1603,
+    "genre": "Fiction, Satire"
+  },
+  {
+    "title": "Invisible Man",
+    "publication_house": "Random House",
+    "year_published": 1952,
+    "genre": "Existentialism"
+  }
+]

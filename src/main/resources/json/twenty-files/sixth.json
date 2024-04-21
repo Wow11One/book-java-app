@@ -1,0 +1,62 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "publication_house": "Scribner",
+    "year_published": 1925,
+    "genre": "Fiction, Drama"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "publication_house": "J. B. Lippincott & Co.",
+    "year_published": 1960,
+    "genre": "Fiction, Drama"
+  },
+  {
+    "title": "Moby-Dick",
+    "publication_house": "Harper & Brothers",
+    "year_published": 1851,
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "publication_house": "Little, Brown and Company",
+    "year_published": 1951,
+    "genre": "Fiction"
+  },
+  {
+    "title": "War and Peace",
+    "publication_house": "The Russian Messenger",
+    "year_published": 1869,
+    "genre": "Historical"
+  },
+  {
+    "title": "The Hobbit",
+    "publication_house": "George Allen & Unwin",
+    "year_published": 1937,
+    "genre": "Fantasy, Adventure"
+  },
+  {
+    "title": "Frankenstein",
+    "publication_house": "Lackington, Hughes, Harding, Mavor & Jones",
+    "year_published": 1818,
+    "genre": "Gothic"
+  },
+  {
+    "title": "Dracula",
+    "publication_house": "Archibald Constable and Company",
+    "year_published": 1897,
+    "genre": "Gothic, Horror"
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "publication_house": "Macmillan",
+    "year_published": 1865,
+    "genre": "Fantasy"
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "publication_house": "George Newnes Ltd",
+    "year_published": 1892,
+    "genre": "Mystery"
+  }
+]

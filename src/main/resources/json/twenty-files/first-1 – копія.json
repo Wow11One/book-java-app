@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Brave New World",
+    "publication_house": "Vintage Books",
+    "year_published": 1932,
+    "genre": "Dystopian, Science, Fiction"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "publication_house": "Anchor Books",
+    "year_published": 1985,
+    "genre": "Dystopian, Speculative, Fiction"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "publication_house": "Ballantine Books",
+    "year_published": 1953,
+    "genre": "Dystopian, Fiction"
+  },
+  {
+    "title": "Animal Farm",
+    "publication_house": "Secker and Warburg",
+    "year_published": 1945,
+    "genre": "Allegorical, Satire"
+  },
+  {
+    "title": "The Hunger Games",
+    "publication_house": "Scholastic Corporation",
+    "year_published": 2008,
+    "genre": "Dystopian, Fiction"
+  },
+  {
+    "title": "Lord of the Flies",
+    "publication_house": "Faber and Faber",
+    "year_published": 1954,
+    "genre": "Allegorical, Fiction"
+  },
+  {
+    "title": "The Giver",
+    "publication_house": "Houghton Mifflin",
+    "year_published": 1993,
+    "genre": "Dystopian, Fiction"
+  },
+  {
+    "title": "Never Let Me Go",
+    "publication_house": "Faber and Faber",
+    "year_published": 2005,
+    "genre": "Dystopian, Fiction"
+  },
+  {
+    "title": "Divergent",
+    "publication_house": "Katherine Tegen Books",
+    "year_published": 2011,
+    "genre": "Dystopian, Fiction"
+  },
+  {
+    "title": "The Road",
+    "publication_house": "Knopf",
+    "year_published": 2006,
+    "genre": "Post-Apocalyptic, Psychological"
+  }
+]

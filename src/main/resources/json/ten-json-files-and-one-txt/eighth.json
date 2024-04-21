@@ -16,5 +16,17 @@
     "publication_house": "Folio",
     "year_published": 1597,
     "genre": "Romance, Tragedy"
+  },
+  {
+    "title": "The Great Gatsby",
+    "publication_house": "Scribner",
+    "year_published": 1925,
+    "genre": "Fiction, Drama"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "publication_house": "J. B. Lippincott & Co.",
+    "year_published": 1960,
+    "genre": "Fiction, Drama"
   }
 ]

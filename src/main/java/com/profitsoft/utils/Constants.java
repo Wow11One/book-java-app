@@ -1,5 +1,8 @@
 package com.profitsoft.utils;
 
+/**
+ * The class that stores all the constants required for a program.
+ */
 public class Constants {
 
     public static final String PUBLICATION_HOUSE = "publication_house";

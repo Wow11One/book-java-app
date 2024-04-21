@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2037619-d75c-450b-ab14-e468c41104b8" name="Changes" comment="fixed xml tag name">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/profitsoft/xml/write/ItemHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/ten-json-files-and-one-txt/eighth.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/ten-json-files-and-one-txt/fifth.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/ten-json-files-and-one-txt/first.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/ten-json-files-and-one-txt/fourth.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/ten-json-files-and-one-txt/ninth.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/ten-json-files-and-one-txt/second.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/ten-json-files-and-one-txt/seventh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/ten-json-files-and-one-txt/sixth.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/ten-json-files-and-one-txt/spy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/ten-json-files-and-one-txt/tenth.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/ten-json-files-and-one-txt/third.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/eighth-1 – копія.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/eighth.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/fifth-1 – копія.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/fifth.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/first-1 – копія.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/first.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/fourth-1 – копія.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/fourth.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/ninth-1 – копія.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/ninth.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/second-1 – копія.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/second.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/seventh-1 – копія.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/seventh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/sixth-1 – копія.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/sixth.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/tenth-1 – копія.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/tenth.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/third-2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/twenty-files/third.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/profitsoft/json/parse/JsonAnalyzerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/profitsoft/service/StatsServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/profitsoft/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/profitsoft/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/profitsoft/entity/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/profitsoft/entity/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/profitsoft/entity/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/profitsoft/entity/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/profitsoft/exception/JsonFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/profitsoft/exception/JsonFormatException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/profitsoft/io/FileResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/profitsoft/json/parse/FileResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/profitsoft/io/JsonAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/profitsoft/json/parse/JsonAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/profitsoft/io/XmlWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/profitsoft/xml/write/XmlWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/profitsoft/service/StatsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/profitsoft/service/StatsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/profitsoft/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/profitsoft/utils/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/profitsoft/utils/ResultMapHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/profitsoft/xml/write/ResultMapHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/json/task-example/task-example.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/json/task-example/task-example.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\chotk\.m2\repository" />
+        <option name="useMavenConfig" value="false" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Djdk.tls.client.protocols=TLSv1.2 -Dhttps.protocols=TLSv1.2" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2fGWcq6Koc8IubzVqQfcDidRPYQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.JsonAnalyzer.executor": "Run",
+    "Application.Main.executor": "Run",
+    "JUnit.JsonAnalyzerTest (1).executor": "Run",
+    "JUnit.JsonAnalyzerTest.executor": "Run",
+    "JUnit.JsonAnalyzerTest.testThatAnalyseMethodDoesNotThrowErrorWhenFileIsCorrect.executor": "Run",
+    "JUnit.JsonAnalyzerTest.testThatAnalyseMethodThrowsErrorWhenFileIsNotCorrect.executor": "Run",
+    "JUnit.JsonAnalyzerTest.testThatFileWithCorrectJsonIsAnalysedCorrectly.executor": "Run",
+    "JUnit.StatsServiceTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/chotk/Desktop/spring-boot-db/spring-boot-db-seventh-task/book-project/src/main/resources/json/twenty-files",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chotk\Desktop\spring-boot-db\spring-boot-db-seventh-task\book-project\src\main\resources\json\twenty-files" />
+      <recent name="C:\Users\chotk\Desktop\spring-boot-db\spring-boot-db-seventh-task\book-project\src\main\resources\json" />
+      <recent name="C:\Users\chotk\Desktop\spring-boot-db\spring-boot-db-seventh-task\book-project\src\main\resources\json\all-files-not-correct" />
+      <recent name="C:\Users\chotk\Desktop\spring-boot-db\spring-boot-db-seventh-task\book-project\src\main\resources\json\task-example" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chotk\Desktop\spring-boot-db\spring-boot-db-seventh-task\book-project\src\main\resources\json\twenty-files" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.profitsoft.service" />
+      <recent name="com.profitsoft.io" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StatsServiceTest">
+    <configuration name="JsonAnalyzerTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.profitsoft.json.parse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.profitsoft.json.parse" />
+      <option name="MAIN_CLASS_NAME" value="com.profitsoft.json.parse.JsonAnalyzerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonAnalyzerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.profitsoft.xml.write.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.profitsoft.io" />
+      <option name="MAIN_CLASS_NAME" value="com.profitsoft.io.JsonAnalyzerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonAnalyzerTest.testThatAnalyseMethodDoesNotThrowErrorWhenFileIsCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.profitsoft.xml.write.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.profitsoft.io" />
+      <option name="MAIN_CLASS_NAME" value="com.profitsoft.io.JsonAnalyzerTest" />
+      <option name="METHOD_NAME" value="testThatAnalyseMethodDoesNotThrowErrorWhenFileIsCorrect(java.io.File)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonAnalyzerTest.testThatFileWithCorrectJsonIsAnalysedCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.profitsoft.xml.write.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.profitsoft.io" />
+      <option name="MAIN_CLASS_NAME" value="com.profitsoft.io.JsonAnalyzerTest" />
+      <option name="METHOD_NAME" value="testThatFileWithCorrectJsonIsAnalysedCorrectly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.profitsoft.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.profitsoft.service" />
+      <option name="MAIN_CLASS_NAME" value="com.profitsoft.service.StatsServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StatsServiceTest" />
+        <item itemvalue="JUnit.JsonAnalyzerTest (1)" />
+        <item itemvalue="JUnit.JsonAnalyzerTest" />
+        <item itemvalue="JUnit.JsonAnalyzerTest.testThatFileWithCorrectJsonIsAnalysedCorrectly" />
+        <item itemvalue="JUnit.JsonAnalyzerTest.testThatAnalyseMethodDoesNotThrowErrorWhenFileIsCorrect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2037619-d75c-450b-ab14-e468c41104b8" name="Changes" comment="" />
+      <created>1713427978872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713427978872</updated>
+      <workItem from="1713427980064" duration="1568000" />
+      <workItem from="1713430242197" duration="2044000" />
+      <workItem from="1713432301477" duration="11000" />
+      <workItem from="1713432320567" duration="464000" />
+      <workItem from="1713432886547" duration="101000" />
+      <workItem from="1713432997054" duration="478000" />
+      <workItem from="1713433607809" duration="21766000" />
+      <workItem from="1713457883812" duration="19000" />
+      <workItem from="1713458587614" duration="359000" />
+      <workItem from="1713458955176" duration="9064000" />
+      <workItem from="1713468194147" duration="914000" />
+      <workItem from="1713470128738" duration="28000" />
+      <workItem from="1713470425973" duration="237000" />
+      <workItem from="1713470672768" duration="37066000" />
+    </task>
+    <task id="LOCAL-00001" summary="Implemented main logic of a program">
+      <option name="closed" value="true" />
+      <created>1713468147988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713468147988</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fixed xml writer file path">
+      <option name="closed" value="true" />
+      <created>1713473484118</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713473484118</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed xml tag name">
+      <option name="closed" value="true" />
+      <created>1713473646839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713473646839</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implemented main logic of a program" />
+    <MESSAGE value="Fixed xml writer file path" />
+    <MESSAGE value="fixed xml tag name" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed xml tag name" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

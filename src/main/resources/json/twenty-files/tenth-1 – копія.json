@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "publication_house": "Charles L. Webster And Company",
+    "year_published": 1884,
+    "genre": "Adventure, Drama"
+  },
+  {
+    "title": "The Scarlet Letter",
+    "publication_house": "Ticknor, Reed & Fields",
+    "year_published": 1850,
+    "genre": "Drama"
+  },
+  {
+    "title": "The Iliad",
+    "publication_house": "Various ancient Greek publishers",
+    "year_published": -800,
+    "genre": "Epic, Entertainment"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "publication_house": "The Viking Press",
+    "year_published": 1939,
+    "genre": "Fiction, Comedy, Entertainment"
+  },
+  {
+    "title": "Wuthering Heights",
+    "publication_house": "Thomas Cautley Newby",
+    "year_published": 1847,
+    "genre": "Gothic, Fiction"
+  }
+]

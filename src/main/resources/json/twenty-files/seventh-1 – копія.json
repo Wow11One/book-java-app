@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Lord of the Rings",
+    "publication_house": "George Allen & Unwin",
+    "year_published": 1954,
+    "genre": "Fantasy, Adventure"
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "publication_house": "Harper & Row",
+    "year_published": 1967,
+    "genre": "Magical realism"
+  },
+  {
+    "title": "The Odyssey",
+    "publication_house": "Various ancient Greek publishers",
+    "year_published": -800,
+    "genre": "Epic"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "publication_house": "Lippincott's Monthly Magazine",
+    "year_published": 1890,
+    "genre": "Gothic"
+  },
+  {
+    "title": "Brave New World",
+    "publication_house": "Chatto & Windus",
+    "year_published": 1932,
+    "genre": "Dystopian, Science Fiction"
+  }
+]

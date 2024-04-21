@@ -1,0 +1,62 @@
+
+  {
+    "title": "Emma",
+    "publication_house": "Knopf",
+    "year_published": 1815,
+    "genre": "Romance, Comedy"
+  },
+  {
+    "title": "Sense and Sensibility",
+    "publication_house": "Thomas Egerton",
+    "year_published": 1811,
+    "genre": "Romance, Fiction"
+  },
+  {
+    "title": "Mansfield Park",
+    "publication_house": "Thomas Egerton",
+    "year_published": 1814,
+    "genre": "Romance, Satire, Fiction"
+  },
+  {
+    "title": "Northanger Abbey",
+    "publication_house": "John Murray",
+    "year_published": 1817,
+    "genre": "Gothic, Satire"
+  },
+  {
+    "title": "Persuasion",
+    "publication_house": "John Murray",
+    "year_published": 1817,
+    "genre": "Romance, Comedy"
+  },
+  {
+    "title": "Wuthering Heights",
+    "publication_house": "Thomas Cautley Newby",
+    "year_published": 1847,
+    "genre": "Gothic, Romance"
+  },
+  {
+    "title": "Jane Eyre",
+    "publication_house": "Thomas Cautley Newby",
+    "year_published": 1847,
+    "genre": "Gothic, Romance"
+  },
+  {
+    "title": "Pride and Prejudice and Zombies",
+    "publication_house": "Quirk Books",
+    "year_published": 2009,
+    "genre": "Parody, Horror"
+  },
+  {
+    "title": "The Importance of Being Earnest",
+    "publication_house": "Leonard Smithers and Co.",
+    "year_published": 1996,
+    "genre": "Satire, Comedy"
+  },
+  {
+    "title": "Bridget Jones's Diary",
+    "publication_house": "Thomas Cautley Newby",
+    "year_published": 1996,
+    "genre": "Romance, Comedy"
+  }
+]

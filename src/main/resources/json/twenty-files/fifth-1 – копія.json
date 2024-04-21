@@ -1,0 +1,62 @@
+[
+  {
+    "title": "The Picture of Dorian Gray",
+    "publication_house": "Knopf",
+    "year_published": 1890,
+    "genre": "Fiction"
+  },
+  {
+    "title": "Frankenstein",
+    "publication_house": "Knopf",
+    "year_published": 1818,
+    "genre": "Gothic, Fiction"
+  },
+  {
+    "title": "Dracula",
+    "publication_house": "Archibald Constable and Company",
+    "year_published": 1897,
+    "genre": "Gothic, Horror"
+  },
+  {
+    "title": "The Strange Case of Dr Jekyll and Mr Hyde",
+    "publication_house": "Longmans, Green & Co.",
+    "year_published": 1886,
+    "genre": "Gothic, Mystery"
+  },
+  {
+    "title": "Interview with the Vampire",
+    "publication_house": "Knopf",
+    "year_published": 1976,
+    "genre": "Gothic, Horror"
+  },
+  {
+    "title": "The Turn of the Screw",
+    "publication_house": "Collier's Weekly",
+    "year_published": 1898,
+    "genre": "Gothic, Horror"
+  },
+  {
+    "title": "We Have Always Lived in the Castle",
+    "publication_house": "Viking Press",
+    "year_published": 1962,
+    "genre": "Gothic,  Thriller"
+  },
+  {
+    "title": "The Haunting of Hill House",
+    "publication_house": "Viking Press",
+    "year_published": 1959,
+    "genre": "Gothic, Horror"
+  },
+  {
+    "title": "Rebecca",
+    "publication_house": "Victor Gollancz",
+    "year_published": 1938,
+    "genre": "Gothic, Mystery"
+  },
+  {
+    "title": "The Woman in Black",
+    "publication_house": "Hammer",
+    "year_published": 1983,
+    "genre": "Gothic, Horror"
+  }
+]

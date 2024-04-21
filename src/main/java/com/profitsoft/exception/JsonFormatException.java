@@ -1,7 +1,10 @@
 package com.profitsoft.exception;
 
-public class JsonFormatException extends RuntimeException {
-    public JsonFormatException(String message) {
-        super(message);
+import com.fasterxml.jackson.core.JsonParseException;
+import com.fasterxml.jackson.core.JsonParser;
+
+public class JsonFormatException extends JsonParseException {
+    public JsonFormatException(JsonParser jsonParser, String message) {
+        super(jsonParser, message);
     }
 }
