@@ -45,10 +45,13 @@ You should write the following commands in the terminal of a root project folder
 mvn dependency:resolve 
 </li>
     <li>
-mvn install
+mvn clean compile
+</li>
+     <li>
+mvn test
 </li>
     <li>
-mvn package
+mvn clean package
 </li>
  <li>
 java -jar target/book-project-1.0-SNAPSHOT-jar-with-dependencies.jar <b>folder-name*</b> <b>attribute-name*</b>
