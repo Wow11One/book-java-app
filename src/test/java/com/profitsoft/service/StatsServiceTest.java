@@ -53,4 +53,20 @@ class StatsServiceTest {
         statsResult.forEach(item ->
                 assertThat(expectedResult.get(item.getValue())).isEqualTo(item.getCount()));
     }
+
+    @Test
+    public void testThatStatsAreCorrectlyCalculatedForIntegers() {
+        List<Integer> genreValues = List.of(1991, 1923, 1991, 1991, 1987, 1917);
+        Map<Integer, Integer> expectedResult = genreValues.stream()
+                .collect(Collectors.groupingBy(Function.identity(),
+                        collectingAndThen(Collectors.counting(), Long::intValue)));
+
+        StatsService<Integer> statsService = new StatsService<>();
+        genreValues.forEach(statsService::addAttributeOccurrence);
+        List<ItemHolder<Integer>> statsResult = statsService.getStatsResult();
+
+        assertThat(statsResult).isNotEmpty();
+        statsResult.forEach(item ->
+                assertThat(expectedResult.get(item.getValue())).isEqualTo(item.getCount()));
+    }
 }
