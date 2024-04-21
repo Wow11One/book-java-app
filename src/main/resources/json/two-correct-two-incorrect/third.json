@@ -1,0 +1,62 @@
+[
+  {
+    "title": Hamlet,
+    "publication_house": "Nonesuch Press",
+    "year_published": 1603,
+    "genre": "Tragedy, Revenge"
+  },
+  {
+    "title": "Macbeth",
+    "publication_house": "Folio",
+    "year_published": 1603,
+    "genre": "Tragedy"
+  },
+  {
+    "title": "Othello",
+    "publication_house": "Knopf",
+    "year_published": 1622,
+    "genre": "Tragedy"
+  },
+  {
+    "title": "King Lear",
+    "publication_house": "Folio",
+    "year_published": 1608,
+    "genre": "Tragedy"
+  },
+  {
+    "title": "A Midsummer Night's Dream",
+    "publication_house": "Folio",
+    "year_published": 1603,
+    "genre": "Comedy, Fantasy"
+  },
+  {
+    "title": "Twelfth Night",
+    "publication_house": "Folio",
+    "year_published": 1603,
+    "genre": "Comedy"
+  },
+  {
+    "title": "The Tempest",
+    "publication_house": "Folio",
+    "year_published": 1623,
+    "genre": "Romance, Comedy"
+  },
+  {
+    "title": "Much Ado About Nothing",
+    "publication_house": "Folio",
+    "year_published": 1600,
+    "genre": "Comedy"
+  },
+  {
+    "title": "As You Like It",
+    "publication_house": "Folio",
+    "year_published": 1623,
+    "genre": "Comedy"
+  },
+  {
+    "title": "Romeo and Juliet: A Novel",
+    "publication_house": "Pantheon Books",
+    "year_published": 2013,
+    "genre": "Romance, Tragedy"
+  }
+]

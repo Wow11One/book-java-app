@@ -61,6 +61,3 @@ There are 3 possible options for attribute-name parameter:
       <b>publication_house</b>: String; 
    </li>
 </ul>
-
-
-
