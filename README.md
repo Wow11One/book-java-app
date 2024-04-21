@@ -47,9 +47,6 @@ mvn dependency:resolve
     <li>
 mvn clean compile
 </li>
-     <li>
-mvn test
-</li>
     <li>
 mvn clean package
 </li>
